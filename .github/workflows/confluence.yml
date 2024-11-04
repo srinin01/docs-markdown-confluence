@@ -30,7 +30,7 @@ jobs:
     - name: Publish to Confluence
       uses: markdown-confluence/publish-action@main
       with:
-        atlassianApiToken: ${{ secrets.ATLASSIAN_API_TOKEN }}
+        atlassianApiToken: ${{ secrets.atlassianApiToken }}
 
     - name: Commit and push changes
       run: |

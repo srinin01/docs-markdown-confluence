@@ -1,7 +1,7 @@
 {
-    "confluenceBaseUrl": "https://markdown-confluence.atlassian.net",
-    "confluenceParentId": "524353",
-    "atlassianUserName": "andrew.mcclenaghan@gmail.com",
+    "confluenceBaseUrl": "https://nallurisrini01-1729828114293.atlassian.net",
+    "confluenceParentId": "2359302",
+    "atlassianUserName": "nallurisrini01@gmail.com",
     "folderToPublish": ".",
     "contentRoot": "/github/workspace/src/",
     "firstHeadingPageTitle": true
