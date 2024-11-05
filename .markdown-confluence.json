@@ -1,8 +1,8 @@
 {
     "confluenceBaseUrl": "https://nallurisrini01-1729828114293.atlassian.net",
-    "confluenceParentId": "2359302",
+    "confluenceParentId": "4260094",
     "atlassianUserName": "nallurisrini01@gmail.com",
-    "folderToPublish": ".",
-    "contentRoot": "ConfTest1",
+    "folderToPublish": "src/development",
+    "contentRoot": "/mymarkdown",
     "firstHeadingPageTitle": true
   }
