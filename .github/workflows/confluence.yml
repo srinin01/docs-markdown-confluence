@@ -7,13 +7,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-      
-      - name: Publish Markdown to Confluence
-        uses: markdown-confluence/publish@v5
+      - name: markdown-confluence
+        uses: markdown-confluence/publish-action@v5
         with:
-          # confluenceBaseUrl: https://your-confluence-instance-url
-          # confluenceParentId: 2470707075
           atlassianApiToken: ${{ secrets.atlassianApiToken }}
-          # folderToPublish: docs
-          # contentRoot: /docs
           configFile: .markdown-confluence.json
