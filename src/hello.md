@@ -10,14 +10,15 @@
 
 Alternatively, for H1 and H2, an underline-ish style:
 
-![Drag Racing](Sample-png-image-100kb.png)
 
 Alt-H1
 ======
+![Drag Racing](Sample-png-image-100kb.png)
 
 Alt-H2
 ------
 ```	
+![Drag Racing](Sample-png-image-100kb.png)
 
 # h1 Heading 8-)
 ## h2 Heading
